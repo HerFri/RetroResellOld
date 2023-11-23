@@ -1,0 +1,1 @@
+web: gunicorn RetroResell.wsgi:application
