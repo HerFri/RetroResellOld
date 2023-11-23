@@ -1,1 +1,1 @@
-web: gunicorn retroresell.wsgi:application
+web: gunicorn RetroResell.wsgi:application
